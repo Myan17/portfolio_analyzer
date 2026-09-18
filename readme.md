@@ -1,3 +1,9 @@
+> **Archived — this project now lives in [quant-toolkit](https://github.com/Myan17/quant-toolkit).**
+> Its code and full commit history are preserved there under
+> [`legacy/portfolio_analyzer`](https://github.com/Myan17/quant-toolkit/tree/main/legacy/portfolio_analyzer).
+> The rebuilt library adds tests, a walk-forward backtest, and fixes to the
+> Sortino calculation and to weight/ticker alignment.
+
 # 📊 Multi-Asset Portfolio Analyzer
 
 `portfolio_analyzer.py` is a simple quantitative finance tool that helps you analyze how a portfolio of multiple assets performs over time. It computes portfolio returns, volatility, Sharpe ratio, asset correlations, and compares the portfolio to a benchmark like SPY.
